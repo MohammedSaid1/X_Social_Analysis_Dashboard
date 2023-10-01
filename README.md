@@ -29,5 +29,3 @@ The dataset contains the following columns:
 2. Use the filters and selectors to navigate through different KPIs and visualizations.
 3. Hover over data points to see detailed metrics.
 
-### Acknowledgments:
-- Dataset source: [Provide the source if available]
